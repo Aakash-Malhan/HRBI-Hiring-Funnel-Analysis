@@ -51,4 +51,3 @@ key questions:
 
 ---
 
-## Project Structure
